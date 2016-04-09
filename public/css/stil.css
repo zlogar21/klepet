@@ -53,6 +53,12 @@ a {
   cursor: pointer;
 }
 
+
+img {
+  width: 200px;
+  margin-left: 20px;
+}
+
 #poslji-sporocilo {
   width: 700px;
   margin-bottom: 1em;
